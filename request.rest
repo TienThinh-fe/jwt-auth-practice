@@ -1,0 +1,10 @@
+GET http://localhost:3000/posts
+Authorization: Bearer <token>
+
+###
+POST http://localhost:3000/login
+content-Type: application/json
+
+{
+  "username": "admin",
+}
