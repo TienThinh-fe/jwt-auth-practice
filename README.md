@@ -1,7 +1,7 @@
 # jwt-auth-practice
 Practice using JWT for create Access and Refresh token in Authentication
 
-## Follow along the tutorial of Web Dev Simplified
+### Follow along the tutorial of Web Dev Simplified
 
 ## To use this repo on your local:
 ```
